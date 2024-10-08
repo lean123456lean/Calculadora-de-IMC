@@ -20,5 +20,5 @@ Acessível em várias plataformas: O app foi desenvolvido para funcionar de form
 Com o Calculadora IMC, você acompanha sua saúde de forma inteligente, com o suporte de IA para alcançar suas metas de bem-estar.
 
 
-![Screenshot do Aplicativo](assets/app_screenshot.png)
+![Screenshot do Aplicativo](assets/image)
 
